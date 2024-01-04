@@ -26,19 +26,13 @@ Your feedback is highly appreciated! If you have any thoughts or comments on Vic
 
 Thank you for visiting Victoria Ontiveros's Portfolio. Enjoy the visual journey!
 
-[Landing Page](/images/fotouno.png)
+![Landing Page](/images/fotouno.png)
 
+![Landing About Me](/images/fotodos.png)
 
-[Landing About Me](/images/fotodos.png)
+![Landing Gallery](/images/fototres.png)
 
-
-
-
-[Landing Gallery](/images/fototres.png)
-
-[Landing Gallery Photos](/images/fotocuatro.png)
-
-
+![Landing Gallery Photos](/images/fotocuatro.png)
 
 
 
